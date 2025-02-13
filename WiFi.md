@@ -8,7 +8,7 @@
 
 **Mérés időpontja**: 2025.02.04
 
-**Felelős személy**: Szabó Alex
+**Felelős személy**: Csontos Dénes
 
 ## Cél
 
